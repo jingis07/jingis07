@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @jingis07
-- 👀 I’m interested in data science...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jingis07/jingis07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a data enthusiast who loves making business decisions from the insights gotten from data. I have a bachelors degree in Electrical/Electronic Engineering and currently work with one of the power distribution companies in Nigeria. As commercial lead, I used the insights from data analysis to increase revenue collection by 10% and increase staff efficiency and productivity.
+For 4 years I have been using tools like Microsoft Excel, Power BI and Tableau, and MSSQL for data analysis, visualization and report writing. These skills I use to contribute to mostly the open-source software and platforms. Examples of platforms analyzed include steemit.com, steemhunt.com, steemstem, etc. Software reviewed include Kodi, Moddle, Telegram, Steeditor, VLC, Gimp, GNS3, Blender among others.
+Currently undergoing training on Statistics, Python programming and its data science libraries (Panda, Numpy, Maplotlib etc), and machine learning. With these skills and training, I want to make better data-driven business decisions.
